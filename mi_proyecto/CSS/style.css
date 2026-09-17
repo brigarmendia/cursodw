@@ -1,0 +1,74 @@
+/*RESET BÁSICO*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/*TIPOGRAFÍA GENERAL*/
+body {
+    font-family: 'Times New Roman', sans-serif;
+    background-color: #6c137e;
+    color: #e4e41e;
+}
+/*ENCABEZADO*/
+.Encabezado
+{
+    background-color: #6c137e;
+    color: #e86a73;
+}
+.Navegación
+a { 
+    color: #e86a73;
+    text-decoration: none;
+    font-weight: 600;
+}
+.ContenidoPrincipal
+{
+    background-color: #e4e41e;
+    color: #6c137e;
+}
+´.SobreBl
+{
+    background-color: #6c137e;
+    color: #e4e41e;
+}
+.Imagen
+{
+    background-color: #e4e41e;
+    color: #6c137e;
+}
+.PiePágina
+{
+    background-color: #6c137e;
+    color: #e4e41e;
+}
+/*SECCIÓN PRODUCTOS*/
+.Productos
+{
+    background-color: #6c137e;
+    color: #e4e41e;
+}
+/*SECCIÓN PREGUNTAS*/
+.Preguntas
+{
+    background-color: #6c137e;
+    color: #e4e41e;
+}
+/*SECCIÓN NOSOTROS*/
+.PresentaciónNosotros
+{
+    background-color: #6c137e;
+    color: #e4e41e;
+}
+/*SECCIÓN CONTACTO*/
+.Contacto
+{
+    background-color: #6c137e;
+    color: #e4e41e;
+}
+/*REDES*/
+.Redes
+{
+    color: #e86a73;
+    text-decoration: none;
+    font-weight: 600;
+}
